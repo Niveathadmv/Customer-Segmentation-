@@ -1,4 +1,5 @@
-## Customer Segmentation using K-means clustering
+## Customer Segmentation for a FMCG distributor
+
 
 Breaking down or dividing retailers into segments can help us find out what they need and are not happy with. 
 By doing this analysis, we can efficiently focus on providing the right services to the specific groups of retailers.
