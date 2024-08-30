@@ -15,21 +15,30 @@ Here, clustering technique is used to understand how retailers place orders base
 
   ![image](https://github.com/Niveathadmv/Customer-Segmentation-/assets/145948648/1e430cca-caec-489a-b837-250863ac57ec)
 
-##### Products returned by retailer clusters in each category 
-
-Based on the clusters, the retailers who return products are captured below. It is noticed that from 
-cluster 1, highest products have been returned across all categories followed by cluster 2. 
+##### Segmentation of retailers based on purchasing behavior
 
   ![image](https://github.com/Niveathadmv/Customer-Segmentation-/assets/145948648/26a8e6dd-3631-43a1-b5e6-20c71662d756)
 
+##### Products returned by retailer clusters in each category 
+Based on the clusters, the retailers who return products are captured below. It is noticed that from 
+cluster 1, highest products have been returned across all categories followed by cluster 2. 
 
-   ![image](https://github.com/Niveathadmv/Customer-Segmentation-/assets/145948648/5075ab36-d98d-4374-8a1a-f51875f73da0)
+  ![image](https://github.com/user-attachments/assets/dfd52cf7-c032-4533-9532-77f0477cbe9e)
 
-##### Results
+##### Recommendations
+Returning the products means that the retailers are unsatisfied, the products can be expiring etc., To address this they can offer solutions like
+
+Enhanced Return Policies: Review and adjust return policies to minimize the volume of returns, particularly for retailers in Cluster 1.
+
+Targeted Support: Provide targeted support and training to retailers in Cluster 1 to reduce the likelihood of returns.
+
+Product Quality Improvement: Investigate and address any quality issues associated with products returned by retailers in these clusters.
+
+Customized Solutions: Develop tailored solutions or incentives for Cluster 1 and Cluster 2 retailers to better align with their needs and reduce return rates.
 
 
 ##### Next Steps
-Hence, the reason in identification of why the products have returned needs to be analyzed to retain 
+Hence, the reason in identification of why exactly the products have been returned needs to be analyzed to retain 
 the retailers. 
 
 
