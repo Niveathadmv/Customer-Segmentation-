@@ -1,5 +1,6 @@
-## Customer Segmentation for a FMCG distributor
+## Which Products Are Returned?
 
+Segmenting can be a powerful way to pinpoint unmet needs among retailers. By leveraging the insights from this analysis, you can more effectively target appropriate services to the relevant retailers. This approach is useful for identifying which retailers return specific types of products.
 
 Breaking down or dividing retailers into segments can help us find out what they need and are not happy with. 
 By doing this analysis, we can efficiently focus on providing the right services to the specific groups of retailers.
@@ -14,11 +15,22 @@ Here, clustering technique is used to understand how retailers place orders base
 
   ![image](https://github.com/Niveathadmv/Customer-Segmentation-/assets/145948648/1e430cca-caec-489a-b837-250863ac57ec)
 
-##### Clusters have been classified based on the retailer's purchasing pattern
+##### Products returned by retailer clusters in each category 
+
+Based on the clusters, the retailers who return products are captured below. It is noticed that from 
+cluster 1, highest products have been returned across all categories followed by cluster 2. 
+
   ![image](https://github.com/Niveathadmv/Customer-Segmentation-/assets/145948648/26a8e6dd-3631-43a1-b5e6-20c71662d756)
 
 
    ![image](https://github.com/Niveathadmv/Customer-Segmentation-/assets/145948648/5075ab36-d98d-4374-8a1a-f51875f73da0)
+
+##### Results
+
+
+##### Next Steps
+Hence, the reason in identification of why the products have returned needs to be analyzed to retain 
+the retailers. 
 
 
   
